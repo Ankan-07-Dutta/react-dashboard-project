@@ -40,7 +40,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern':
-          "url('https://i.ibb.co/MkvLDfb/Rectangle-4389.png')",
+          "url('https://img.freepik.com/free-photo/shocked-tensed-redhead-woman-seeing-intense-fight-screen-as-watching-movie-cinema-wear-d-g_1258-126203.jpg?ga=GA1.1.1142200106.1744741367&semt=ais_hybrid&w=740')",
       },
     },
   },

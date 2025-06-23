@@ -49,9 +49,10 @@ function App() {
             navbar w-full'>
               <Navbar/>
             </div>
-          </div>
+          
 
           <div>
+            <ThemeSettings />
             <Routes>
               {/* Dashboard  */}
               <Route path='/' element= {< Ecommerce/> } />
@@ -76,7 +77,7 @@ function App() {
               <Route path='/stacked' element={< Stacked/>} />
             </Routes>
           </div>
-
+          </div>
         </div>
       </BrowserRouter>
     </div>
